@@ -1,0 +1,3 @@
+... Add the purpose of your template here ...
+
+{%= docs("boilr-output-wrapper") %}

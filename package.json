@@ -1,0 +1,15 @@
+{
+  "name": "renovate",
+  "version": "1.0.0",
+  "author": "Stefan Walther <swr.nixda@gmail.com> (http://qliksite.io)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stefanwalther/boilr-renovate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/stefanwalther/boilr-renovate/issues"
+  },
+  "homepage": "https://github.com/stefanwalther/boilr-renovate#readme",
+  "description": "Boilr template to create a basic renovate config."
+}
